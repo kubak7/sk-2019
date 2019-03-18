@@ -1,0 +1,12 @@
+ip link set enp0s3 up - wlaczenie karty sieciowej enp0s3
+ip addr add
+ip addr
+ip route show - pokaz tablice routingowa
+ip route add default via - zdefiniuj adres w tablicy routingowej
+ip route get - pokaz sciezke routingowa
+
+Z poza wewnetrznej sieci --> router
+z wewnetrznej sieci --> interfejs sieciowy
+
+wlaczanie forwardowania pakietow
+echo 1 > /proc/sys/net/ipv4/ip_forward
