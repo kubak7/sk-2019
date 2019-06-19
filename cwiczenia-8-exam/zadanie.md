@@ -50,10 +50,15 @@ Konfiguracja pernamentna
 #### eth1 (``enp0s8``)
 W ``/etc/sysconfig/network-scripts`` tworzę plik ifcfg-enp0s8 i uzupełniam go
   DEVICE=enp0s8
+  
   IPADDR=172.22.128.1
+  
   NETMASK=255.255.224.0
+  
   NETWORK=172.22.128.0
+  
   BROADCAST=172.22.159.255
+  
   ONBOOT=yes
  
 #### eth2 (``enp0s9``)
