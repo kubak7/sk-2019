@@ -11,5 +11,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
    * Przygotuj dokumentację powyższej architektury w formie graficznej w programie ``DIA``
    
 ---------
+<b> Rozwiązanie </b>
+
   
  
