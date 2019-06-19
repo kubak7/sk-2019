@@ -14,8 +14,9 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 Rozwiązanie  
 -----------
 
-> Zapewnienie interfejsu poprzez interfejs eth0(enp0s3)
->
+Zapewnienie interfejsu poprzez interfejs eth0(enp0s3)
+
+
 > echo 1 | tee /proc/sys/net/ipv4/ipforward
 >
 >iptables -t nat -A POSTROUTING -o enp0s3 -j MASQUERADE
