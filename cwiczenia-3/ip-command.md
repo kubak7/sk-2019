@@ -2,15 +2,15 @@ Ustawianie parametrów sieci ip
 ------------------------------
 
 * stan interfejsu
-    * interfejs up
-    * interfejs down
+    * interfejs ip link set up
+    * interfejs ip link set down
 * adresacja
-    * dodaj adres
-    * zmień adres
-    * usuń adres
+    * dodaj adres ip addr add x.x.x.x dev (interface)
+    * zmień adres ip addr replace
+    * usuń adres ip addr del
 * routing
-    * dodaj trasę default
-    * dodaj trasę przez bramę
+    * dodaj trasę default ip route add default x.x.x.x via  
+    * dodaj trasę przez bramę 
     * dodaj trasę przez interfejs
     * usuń trasę
     * zmień trasę
