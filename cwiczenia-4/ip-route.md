@@ -13,7 +13,7 @@ ip
 -------------------------
 | subcommand    |  polecenie   | opis  |
 | ------------- |:-------------| :---------------| 
-|   ``route``    |                               | |
+|   ``route``    |    ``ip route show``              | |
 |               |   ``ip route add``             | |
 
 
