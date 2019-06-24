@@ -14,7 +14,7 @@ Zaproponuj rozwiązanie spełniające poniższe wymagania:
 Rozwiązanie  
 -----------
 
-### Zapewnienie interfejsu poprzez interfejs eth0(``enp0s3``)
+### Zapewnienie dostępu do sieci poprzez interfejs eth0(``enp0s3``)
 
 
 > echo 1 | tee /proc/sys/net/ipv4/ipforward
