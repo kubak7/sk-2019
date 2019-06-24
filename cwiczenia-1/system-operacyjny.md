@@ -17,8 +17,8 @@ Konfiguracja połączenia sieciowego
 | ------------- |:-------------:| -----:|
 | Adres IP      | XX.XX.XX.XX | przydzielony przez DHCP |
 | Maska podsieci      |  |  |
-| Brama      |  |  |
-| DNS 1      |149.156.208.49  |  |
+| Brama      |10.0.2.2 |  |
+| DNS 1      |149.156.208.49 |  |
 | DNS 2      |149.156.208.90 |  |
 
 Schemat sieci
